@@ -1,0 +1,11 @@
+From tibs at tibsnjoan.co.uk  Fri Nov  7 23:22:08 2008
+From: tibs at tibsnjoan.co.uk (Tony Ibbs)
+Date: Fri, 7 Nov 2008 22:22:08 +0000
+Subject: [Tstools-users] tstools 1.11 is now released
+Message-ID: <A9B753FC-C08F-4BB9-8D52-86F7128920A5@tibsnjoan.co.uk>
+
+tstools 1.11 is now released -- see http://developer.berlios.de/project/showfiles.php?group_id=9575
+
+Tibs
+
+

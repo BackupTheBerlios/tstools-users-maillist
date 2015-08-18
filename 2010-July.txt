@@ -1,0 +1,29 @@
+From kmathew at envivio.fr  Thu Jul  8 19:03:45 2010
+From: kmathew at envivio.fr (Kurien Mathew)
+Date: Thu, 8 Jul 2010 19:03:45 +0200
+Subject: [Tstools-users] tstools 1.11
+Message-ID: <4C3604F1.7020202@envivio.fr>
+
+Hi,
+
+I get the following error when I run "tsplay -loop -maxnowait 32 
+1080i_15min.mpg 239.194.46.46:1234"
+
+Taking timing information from PID 0x6c1
+Circular buffer filled - starting to send data
+### Parent: giving up (child not responding)
+### Internal error - waiting because circular buffer full
+### Error writing TS packet 5599912 to circular buffer
+### tsplay: Error playing stream
+### Parent: giving up (child not responding)
+### Internal error - waiting because circular buffer full
+### Error adding EOF indicator
+### Error adding EOF indicator to TS buffer
+### Error closing child process
+
+Would you have any suggestions on how to overcome it?
+
+Thanks
+Kurien
+
+

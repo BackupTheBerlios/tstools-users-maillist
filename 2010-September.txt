@@ -1,0 +1,22 @@
+From tibs at tibsnjoan.co.uk  Sun Sep 26 17:08:19 2010
+From: tibs at tibsnjoan.co.uk (Tony Ibbs)
+Date: Sun, 26 Sep 2010 16:08:19 +0100
+Subject: [Tstools-users] Moving tstools development to google code
+Message-ID: <B47FF265-378D-47FB-878E-2C62BB2989F8@tibsnjoan.co.uk>
+
+I am moving the development of the tstools project to google code, at:
+
+    http://code.google.com/p/tstools/
+
+This is mainly because I am using google code for the other open source projects I manage, and it will make it easier for me to actually work on tstools (I'm much more likely to check up on issues, etc., with a project there).
+
+Beware - the new location is using mercurial instead of svn
+
+I aim to produce a new binary release (at least for Windows) in the near future.
+
+If you had commit privileges on the berlios version of the project, and don't yet have them on the google code version, please let me know (off-list!) an appropriate email address that you use to sign onto google code, so I can (re)add you. 
+
+If there is anyone listening who isn't currently a committer, but feels they should be, ley me know and we can discuss it.
+
+Tibs
+
